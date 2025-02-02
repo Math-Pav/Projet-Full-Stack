@@ -1,0 +1,6 @@
+upload/upload_images
+.idea
+.env
+.env.dist
+vendor
+config
